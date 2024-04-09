@@ -1,0 +1,133 @@
+LIBRARY BOOKS:
+
+Title: Elantris
+Author: Brandon Sanderson
+ISBN: 978-0-7653-8102-6
+Genre: Fantasy
+Publication Date: 04/21/2005
+Availability: False
+Borrower: James Carlson
+
+Title: Mistborn: The Final Empire
+Author: Brandon Sanderson
+ISBN: 978-0-7653-1178-8
+Genre: Fantasy
+Publication Date: 07/17/2006
+Availability: True
+Borrower: None
+
+Title: Mistborn: The Well of Ascension
+Author: Brandon Sanderson
+ISBN: 978-0-7653-1688-2
+Genre: Fantasy
+Publication Date: 08/21/2007
+Availability: True
+Borrower: None
+
+Title: Mistborn: The Hero of Ages
+Author: Brandon Sanderson
+ISBN: 978-0-7653-1689-9
+Genre: Fantasy
+Publication Date: 10/14/2008
+Availability: True
+Borrower: None
+
+Title: Mistborn: The Alloy of Law
+Author: Brandon Sanderson
+ISBN: 978-0-7653-3042-0
+Genre: Fantasy
+Publication Date: 11/08/2011
+Availability: True
+Borrower: None
+
+Title: Mistborn: Shadows of Self
+Author: Brandon Sanderson
+ISBN: 978-0-7653-7855-2
+Genre: Fantasy
+Publication Date: 10/06/2015
+Availability: True
+Borrower: None
+
+Title: Mistborn: The Bands of Mourning
+Author: Brandon Sanderson
+ISBN: 978-0-7653-7857-6
+Genre: Fantasy
+Publication Date: 01/26/2016
+Availability: True
+Borrower: None
+
+Title: Mistborn: The Lost Metal
+Author: Brandon Sanderson
+ISBN: 978-0-7653-9119-3
+Genre: Fantasy
+Publication Date: 11/15/2022
+Availability: True
+Borrower: None
+
+Title: The Name of the Wind
+Author: Patrick Rothfuss
+ISBN: 978-0-7564-0407-9
+Genre: Fantasy
+Publication Date: 03/27/2007
+Availability: False
+Borrower: James Carlson
+
+Title: The Wise Man's Fear
+Author: Patrick Rothfuss
+ISBN: 978-0-7564-0473-4
+Genre: Fantasy
+Publication Date: 03/01/2011
+Availability: True
+Borrower: None
+
+Title: Born a Crime
+Author: Trevor Noah
+ISBN: 978-0-399-58817-4
+Genre: Non-Fiction
+Publication Date: 11/15/2016
+Availability: False
+Borrower: Megan Carlson
+
+Title: Star Wars: Heir to the Empire
+Author: Timothy Zahn
+ISBN: 978-0-553-29612-9
+Genre: Science Fiction
+Publication Date: 05/01/1991
+Availability: True
+Borrower: None
+
+
+LIBRARY USERS:
+
+User Name: James Carlson
+Library ID: 00000001
+Borrowed Books: ['Elantris', 'The Name of the Wind']
+
+User Name: Megan Carlson
+Library ID: 00000002
+Borrowed Books: ['Born a Crime']
+
+User Name: Hugh Jackman
+Library ID: 00000003
+Borrowed Books: []
+
+
+LIBRARY AUTHORS:
+
+Author Name: Brandon Sanderson
+Biography: Brandon Sanderson (born December 19, 1975) is an American fantasy and science fiction writer. He is best known for the Cosmere universe, where most of his fantasy books are set; and for finishing Robert Jordan's fantasy series The Wheel of Time.
+Books in Library: ['Elantris', 'Mistborn: The Final Empire', 'Mistborn: The Well of Ascension', 'Mistborn: The Hero of Ages', 'Mistborn: The Alloy of Law', 'Mistborn: Shadows of Self', 'Mistborn: The Bands of Mourning', 'Mistborn: The Lost Metal']
+
+Author Name: Patrick Rothfuss
+Biography: Patrick James Rothfuss (born June 6, 1973) is an American author. He is best known for his series The Kingkiller Chronicle, beginning with Rothfuss' debut novel, The Name of the Wind (2007), which won several awards, and continuing in the sequel, The Wise Man's Fear (2011), which topped the The New York Times Best Seller list.
+Books in Library: ['The Name of the Wind', "The Wise Man's Fear"]
+
+Author Name: Trevor Noah
+Biography: Trevor Noah (born 20 February 1984) is a South African comedian, writer, producer, political commentator, actor, and television host. He was the host of The Daily Show, an American late-night talk show and satirical news program on Comedy Central, from 2015 to 2022.
+Books in Library: ['Born a Crime']
+
+Author Name: Timothy Zahn
+Biography: Timothy Zahn (born September 1, 1951) is an American writer of science fiction and fantasy. He is known best for his prolific collection of Star Wars books, chiefly the Thrawn series, and has published several other series of sci-fi and fantasy novels of his own original creation, in addition to many works of short fiction.
+Books in Library: ['Star Wars: Heir to the Empire']
+
+
