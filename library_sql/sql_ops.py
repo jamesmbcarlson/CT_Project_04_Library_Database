@@ -12,7 +12,6 @@ def connect_to_db():
         )
 
         # return connection if successful
-        # print("Connected Successfully to Library Database")
         return conn
     
     # connection failed; inform user
